@@ -34,7 +34,24 @@ header ul{
     list-style: none;
 }
 
+i.fab{
+    font-size: 10rem;
+}
 
+form{
+    height: 90vh;
+    background-color: rgba(34, 34, 34, 0.925);
+    color:#fff;
+}
+
+footer{
+    background-color: #000;
+}
+
+footer i.fab{
+    font-size: 3rem;
+    color:#fff
+}
 
 
 
