@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6, a{
 
 p{
     font-family: 'Quicksand', sans-serif;
+    padding: 20px 0px 0px 40px;
 }
 
 li{
@@ -51,6 +52,13 @@ header ul{
     -webkit-filter: grayscale();
 }
 
+/* portafolio */
+.avatar-portafolio{
+    height: 200px;
+    background-image: url('/assets/img/webs/web-patricia-flores.png');
+    filter: grayscale();
+    -webkit-filter: grayscale();
+}
 
 /* form */
 form{
@@ -66,6 +74,10 @@ footer{
 footer i.fab{
     font-size: 3rem;
     color:#fff
+}
+
+.Form__FooterWrapper-sc-18c4ntz-1 , .eLqpRX{
+    display: none;
 }
 
 
